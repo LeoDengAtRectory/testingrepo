@@ -13,3 +13,6 @@ for jamal in x:
 
 	
 
+
+print(encrypted)
+
